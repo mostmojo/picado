@@ -1,0 +1,73 @@
+/**
+ * [Table of contents]
+ *   1 Base
+ *     1.1 Variables
+ *     1.2 Custom mixins
+ *     1.3 Reset Styles
+ *   2 Components
+ *     2.1 Typography
+ *     2.2 Brand
+ *     2.3 Links
+ *     2.4 Blocks
+ *     2.5 Boxes
+ *     2.6 Element groups
+ *     2.7 Responsive units
+ *     2.8 Lists
+ *     2.9 Images
+ *     2.10 Icons
+ *     2.11 Tables custom
+ *     2.12 Dividers
+ *     2.13 Buttons
+ *     2.14 Form styles
+ *     2.15 Posts
+ *     2.16 Quotes
+ *     2.17 Thumbnails
+ *     2.18 Breadcrumbs
+ *     2.19 Pagination custom
+ *     2.20 Snackbars
+ *     2.21 Footers
+ *     2.22 Product
+ *     2.23 Team
+ *     2.24 Thumbnails
+ *   3 Helpers
+ *     3.1 Page layout
+ *     3.2 Text styling
+ *     3.3 Offsets
+ *     3.4 Sections
+ *     3.5 Grid modules
+ *     3.6 Backgrounds
+ *     3.7 Utilities custom
+ *   4 Plugins
+ *     4.1 Animate.css
+ *     4.2 Preloader
+ *     4.3 ToTop
+ *     4.4 RD Navbar
+ *     4.5 Swiper
+ *     4.6 Google Map
+ *     4.7 Search Results
+ *     4.8 Isotope
+ *     4.9 Nav custom
+ *     4.10 Panel custom styles
+ *     4.11 Tooltip Custom
+ *     4.12 Counter
+ *     4.13 Progress Bars
+ *     4.14 Countdown
+ *     4.15 Owl Carousel
+ *     4.16 LG Transitions
+ *     4.17 Material Parallax
+ *     4.18 RD-Range
+ *     4.19 Select 2
+ *     4.20 Slick carousel
+ *     4.21 Formstone Stepper Plugin
+ */
+
+// Import main styles
+@import "main";
+
+// Specific theme styles
+
+// SVG Icon Gradient
+.box-icon-modern-svg [id*='SVGID'] {
+	--color-stop-1: #f9e95e;
+	--color-stop-2: #76aa6f;  
+}

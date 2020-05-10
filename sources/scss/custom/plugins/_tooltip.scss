@@ -1,0 +1,14 @@
+/** @section Tooltip Custom */
+
+
+//
+// Base class
+//
+.tooltip {
+	font-size: $font-size-body;
+	line-height: $line-height-base;
+}
+
+.tooltip-inner {
+	border-radius: 0;
+}
