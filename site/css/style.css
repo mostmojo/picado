@@ -3559,12 +3559,12 @@ hr {
 .button-gray-6:hover,
 .button-gray-6:active {
   color: #151515;
-  background-color: #f9e95e;
-  border-color: #f9e95e;
+  background-color: #f48071;
+  border-color: #f48071;
 }
 
 .button-gray-6.button-ujarak::before {
-  background: #f9e95e;
+  background: #f48071;
 }
 
 .button-gray-6.button-zakaria:after {
@@ -3625,12 +3625,12 @@ hr {
 .button-default-outline-2:hover,
 .button-default-outline-2:active {
   color: #151515;
-  background-color: #f9e95e;
-  border-color: #f9e95e;
+  background-color: #f48071;
+  border-color: #f48071;
 }
 
 .button-default-outline-2.button-ujarak::before {
-  background: #f9e95e;
+  background: #f48071;
 }
 
 .button-default-outline-2.button-zakaria:after {
@@ -3661,7 +3661,7 @@ hr {
 
 .button-style-1,
 .button-style-1:focus {
-  color: #f9e95e;
+  color: #f48071;
   background-color: #707475;
   border-color: #707475;
 }
@@ -4994,7 +4994,7 @@ textarea.textarea-lg {
   left: 0;
   height: 4px;
   width: 100%;
-  background: #f9e95e;
+  background:#f48071;
   transition: inherit;
   z-index: -1;
 }
@@ -5258,7 +5258,7 @@ textarea.textarea-lg {
 }
 
 .post-nikki-2 .post-nikki-title a:hover {
-  color: #f9e95e;
+  color: #f48071;
 }
 
 .post-nikki-2 .post-nikki-time {
@@ -5601,7 +5601,7 @@ textarea.textarea-lg {
 }
 
 .quote-modern-3 .quote-modern-status {
-  color: #f9e95e;
+  color: #f48071;
 }
 
 .quote-modern-text {
@@ -7099,7 +7099,7 @@ textarea.textarea-lg {
 .bg-gray-3 .footer-corporate-decor::before,
 .bg-brown-1 .footer-corporate-decor::before,
 .bg-primary .footer-corporate-decor::before {
-  border-color: #f9e95e;
+  border-color: #f48071;
 }
 
 .context-dark .footer-corporate-info a:hover,
@@ -7107,7 +7107,7 @@ textarea.textarea-lg {
 .bg-gray-3 .footer-corporate-info a:hover,
 .bg-brown-1 .footer-corporate-info a:hover,
 .bg-primary .footer-corporate-info a:hover {
-  color: #f9e95e;
+  color: #f48071;
 }
 
 .context-dark .footer-corporate-info .icon,
@@ -7131,7 +7131,7 @@ textarea.textarea-lg {
 .bg-gray-3 .footer-corporate-list a:hover,
 .bg-brown-1 .footer-corporate-list a:hover,
 .bg-primary .footer-corporate-list a:hover {
-  color: #f9e95e;
+  color: #f48071;
 }
 
 .context-dark .footer-corporate-text,
@@ -7607,7 +7607,7 @@ textarea.textarea-lg {
 
 .product-dawn-button,
 .product-dawn-button:focus {
-  color: #f9e95e;
+  color: #f48071;
   background-color: #707475;
   border-color: #707475;
 }
@@ -10054,7 +10054,7 @@ html [class*="section-"].section-top-0 {
 }
 
 .bg-secondary {
-  background-color: #f9e95e;
+  background-color: #f48071;
 }
 
 .bg-gray-100 {
@@ -10676,7 +10676,7 @@ p.rights a:hover {
 .bg-gray-3 .title-style-7,
 .bg-brown-1 .title-style-7,
 .bg-primary .title-style-7 {
-  color: #f9e95e;
+  color: #f48071;
 }
 
 .group .title-style-6 {
@@ -16145,11 +16145,11 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .tabs-line-2 .nav-link::after {
-  background: #f9e95e;
+  background: #f48071;
 }
 
 .tabs-line-2 .nav-link.active {
-  color: #f9e95e;
+  color: #f48071;
 }
 
 .tabs-corporate .nav-tabs {
@@ -16203,7 +16203,7 @@ html.rd-navbar-fixed-linked .page {
     border-color: transparent;
   }
   .tabs-corporate .nav-link.active {
-    border-color: transparent transparent #f9e95e transparent;
+    border-color: transparent transparent #f48071 transparent;
   }
 }
 
@@ -16697,7 +16697,7 @@ h3 + .card-group-corporate {
 }
 
 .counter-classic-2 .counter-classic-decor::before {
-  background: #f9e95e;
+  background: #f48071;
 }
 
 .counter-classic-number {
