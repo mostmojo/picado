@@ -1230,7 +1230,7 @@ padding: 4px;
 .ie-10 .box-icon-modern-svg svg path,
 .ie-11 .box-icon-modern-svg svg path,
 .ie-edge .box-icon-modern-svg svg path {
-  fill: #3cc3c1;
+  fill: #f48071;
 }
 
 .box-icon-creative {
@@ -1243,7 +1243,7 @@ padding: 4px;
 .box-icon-creative-icon {
   font-size: 34px;
   line-height: 1;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .box-icon-creative-title {
@@ -7501,7 +7501,7 @@ textarea.textarea-lg {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .product-creative-price-old {
@@ -10140,7 +10140,7 @@ html [class*="section-"].section-top-0 {
 }
 
 .bg-image-1 {
-  /* background-image: url(../images/bg-pattern-1.jpg); */
+  background-image: url(../images/bg-pattern-1.jpg);
   background-repeat: repeat;
   background-size: auto;
   background-color: #fff;
@@ -16615,7 +16615,7 @@ h3 + .card-group-corporate {
   height: 30px;
   border-radius: 50%;
   color: #ffffff;
-  background: #3cc3c1;
+  background: #f48071;
   box-shadow: none;
   transform: rotate(90deg);
   transition: all 0.3s ease;
@@ -17446,11 +17446,11 @@ html:not(.ie-10):not(.ie-11):not(.ie-edge) .countdown-circle svg {
 
 .owl-dot:hover,
 .owl-dot:focus {
-  background-color: #3cc3c1;
+  background-color: #f48071;
 }
 
 .owl-dot.active {
-  background-color: #3cc3c1;
+  background-color: #f48071;
 }
 
 .owl-carousel.owl-carousel-light-dots .owl-dot {
