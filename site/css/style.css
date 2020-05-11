@@ -3515,12 +3515,12 @@ hr {
 .button-secondary:hover,
 .button-secondary:active {
   color: #ffffff;
-  background-color: #3cc3c1;
-  border-color: #3cc3c1;
+  background-color: #dc7264;
+  border-color: #dc7264;
 }
 
 .button-secondary.button-ujarak::before {
-  background: #3cc3c1;
+  background: #dc7264;
 }
 
 .button-secondary.button-zakaria:after {
@@ -7195,9 +7195,9 @@ textarea.textarea-lg {
   vertical-align: middle;
   font-size: 15px;
   line-height: 1;
-  font-weight: 700;
+  font-weight: 700;button-zakaria
   letter-spacing: 0;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .product-price-old {
