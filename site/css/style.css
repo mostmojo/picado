@@ -278,7 +278,7 @@
 .bg-gray-3 .rd-navbar-fixed .contacts-classic a:hover,
 .bg-brown-1 .rd-navbar-fixed .contacts-classic a:hover,
 .bg-primary .rd-navbar-fixed .contacts-classic a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .context-dark .rd-navbar-fixed.rd-navbar-logo-mobile .brand-logo-dark,
@@ -472,7 +472,7 @@ h4 a:hover,
 h5 a:hover,
 h6 a:hover,
 [class^="heading-"] a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 h1,
@@ -756,11 +756,11 @@ a:hover {
 a,
 a:focus,
 a:active {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 a:hover {
-  color: #2a8987;
+  color: #f48071;
 }
 
 a[href*="tel"],
@@ -769,11 +769,11 @@ a[href*="mailto"] {
 }
 
 .link-hover {
-  color: #2a8987;
+  color: #f48071;
 }
 
 .link-press {
-  color: #2a8987;
+  color: #f48071;
 }
 
 .privacy-link {
@@ -788,6 +788,15 @@ a[href*="mailto"] {
   * + .privacy-link {
     margin-top: 45px;
   }
+}
+
+.ctas {
+	margin-top: 2rem;
+}
+
+.app-store {
+height: 4rem;
+padding: 4px;
 }
 
 .link-tag {
@@ -994,7 +1003,7 @@ a[href*="mailto"] {
 }
 
 .box-icon-classic-title a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .box-icon-classic-text {
@@ -1135,7 +1144,7 @@ a[href*="mailto"] {
 }
 
 .box-icon-modern-title a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .box-icon-modern-text {
@@ -1335,7 +1344,7 @@ a[href*="mailto"] {
 }
 
 .box-icon-nancy-title a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .box-icon-nancy-text {
@@ -1469,7 +1478,7 @@ a[href*="mailto"] {
 }
 
 .contacts-classic a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .contacts-classic a.link,
@@ -1479,7 +1488,7 @@ a[href*="mailto"] {
 }
 
 .contacts-classic a.link:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .contacts-classic-title {
@@ -1560,7 +1569,7 @@ a[href*="mailto"] {
 }
 
 .box-comment-author a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .box-comment-time {
@@ -1579,7 +1588,7 @@ a[href*="mailto"] {
 .box-comment-reply,
 .box-comment-reply:focus,
 .box-comment-reply:active {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .box-comment-reply:hover {
@@ -2736,7 +2745,7 @@ p + .list-marked {
 }
 
 .list-categories a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .list-categories li + li {
@@ -2760,7 +2769,7 @@ p + .list-marked {
 }
 
 .list-archives > li::before {
-  background: #3cc3c1;
+  background: #f48071;
 }
 
 .list-archives a,
@@ -2770,7 +2779,7 @@ p + .list-marked {
 }
 
 .list-archives a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .list-archives li + li {
@@ -2802,7 +2811,7 @@ p + .list-marked {
 }
 
 .list-social a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .list-social-2 {
@@ -2826,7 +2835,7 @@ p + .list-marked {
 }
 
 .list-social-2 a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .list-social-title {
@@ -2872,11 +2881,11 @@ p + .list-marked {
 }
 
 .list-social-3 a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .list-social-3 a:hover {
-  border-color: #3cc3c1;
+  border-color: #f48071;
 }
 
 * + .list-social-3 {
@@ -2921,11 +2930,11 @@ p + .list-marked {
 }
 
 .list-social-4 a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .list-social-4 a:hover {
-  border-color: #3cc3c1;
+  border-color: #f48071;
 }
 
 * + .list-social-4 {
@@ -5326,7 +5335,7 @@ textarea.textarea-lg {
 }
 
 .post-nikki-title a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .post-nikki-title {
@@ -5402,11 +5411,11 @@ textarea.textarea-lg {
 }
 
 .post-minimal-title a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .post-minimal-time {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 * + .post-minimal-time {
@@ -6461,7 +6470,7 @@ textarea.textarea-lg {
 }
 
 .footer-classic-panel a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .footer-classic-title {
@@ -6508,14 +6517,14 @@ textarea.textarea-lg {
 }
 
 .contacts-creative a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .contacts-creative .icon {
   vertical-align: middle;
   font-size: 18px;
   line-height: 21px;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .contacts-creative li + li {
@@ -6813,7 +6822,7 @@ textarea.textarea-lg {
   line-height: 1;
   font-weight: 600;
   letter-spacing: 0.1em;
-  border: solid #3cc3c1;
+  border: solid #f48071;
   border-width: 0 3px 0 3px;
 }
 
@@ -6834,7 +6843,7 @@ textarea.textarea-lg {
 }
 
 .footer-creative-list a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .footer-creative-list li + li {
@@ -6852,7 +6861,7 @@ textarea.textarea-lg {
 }
 
 .contacts-holly a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .contacts-holly li + li {
@@ -6973,7 +6982,7 @@ textarea.textarea-lg {
 }
 
 .footer-corporate-panel a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .footer-corporate-title {
@@ -6990,7 +6999,7 @@ textarea.textarea-lg {
   display: inline-block;
   content: "";
   width: 58px;
-  border-top: 3px solid #3cc3c1;
+  border-top: 3px solid #f48071;
 }
 
 .footer-corporate-info {
@@ -7004,7 +7013,7 @@ textarea.textarea-lg {
 }
 
 .footer-corporate-info a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .footer-corporate-info .icon {
@@ -7780,13 +7789,13 @@ textarea.textarea-lg {
 }
 
 .product-minimal-title a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .product-minimal-price {
   line-height: 1;
   letter-spacing: 0.025em;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 * + .product-minimal-price {
@@ -8767,13 +8776,13 @@ textarea.textarea-lg {
 }
 
 .team-navy-name a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .team-navy-status {
   letter-spacing: 0.025em;
   font-style: italic;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .team-info {
@@ -8921,17 +8930,17 @@ html:not(.ie-10):not(.ie-11):not(.ie-edge) .team-karen-header svg {
 }
 
 .event-classic-panel a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .event-classic-panel .icon {
   margin-right: 8px;
   font-size: 15px;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .event-classic-link {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .event-classic-time {
@@ -10354,7 +10363,7 @@ p.rights a:active {
 }
 
 p.rights a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 [style*="z-index: 1000;"] {
@@ -13276,7 +13285,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .contacts-modern a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .contacts-modern li + li {
@@ -13487,12 +13496,12 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .contacts-ruth a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .contacts-ruth .icon {
   font-size: 38px;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 /**
@@ -14030,7 +14039,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .contacts-amber a:hover {
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 /** @section Swiper */
@@ -15966,7 +15975,7 @@ html.rd-navbar-fixed-linked .page {
     width: 130%;
     height: 4px;
     border-radius: 6px;
-    background: #3cc3c1;
+    background: #f48071;
     transform: translate3d(-50%, 0, 0);
     opacity: 0;
     transition: all 0.25s ease;
