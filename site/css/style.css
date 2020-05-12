@@ -4289,6 +4289,7 @@ textarea.textarea-lg {
 	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+
 @media (min-width: 768px) {
   .form-label {
     top: 30px;
@@ -5013,6 +5014,13 @@ textarea.textarea-lg {
   background:#f48071;
   transition: inherit;
   z-index: -1;
+}
+.mojo {
+	color: #f48071 !important;
+}
+
+.mojo:hover {
+	color: #ff9e91 !important;
 }
 
 .post-modern-tag:hover::before {
