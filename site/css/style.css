@@ -5654,7 +5654,7 @@ textarea.textarea-lg {
 .quote-modern-status {
   font-style: italic;
   letter-spacing: 0.025em;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .quote-modern-text + .unit {
@@ -5732,7 +5732,7 @@ textarea.textarea-lg {
   letter-spacing: 0.1em;
   text-transform: uppercase;
   font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 * + .quote-creative-rating {
@@ -5795,7 +5795,7 @@ textarea.textarea-lg {
 .quote-minimal-status {
   font-style: italic;
   letter-spacing: 0.025em;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 * + .quote-minimal-author {
@@ -5859,7 +5859,7 @@ textarea.textarea-lg {
 .quote-carly-status {
   font-style: italic;
   letter-spacing: 0.025em;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 * + .quote-carly-footer {
@@ -5934,7 +5934,7 @@ textarea.textarea-lg {
   vertical-align: middle;
   font-size: 15px;
   line-height: 1;
-  color: #3cc3c1;
+  color: #f48071;
 }
 
 .thumbnail-classic-price {
@@ -6127,7 +6127,7 @@ textarea.textarea-lg {
   position: relative;
   display: block;
   overflow: hidden;
-  background: #3cc3c1;
+  background: #f48071;
 }
 
 .thumbnail-minimal:before {
@@ -6322,7 +6322,7 @@ textarea.textarea-lg {
 }
 
 .page-link:hover {
-  color: #3cc3c1;
+  color: #f48071;
   background-color: transparent;
   border-color: transparent;
 }
@@ -6335,7 +6335,7 @@ textarea.textarea-lg {
 .page-item.active > .page-link:hover,
 .page-item.active > .page-link:focus,
 .page-item.active > .page-link:active {
-  color: #3cc3c1;
+  color: #f48071;
   background-color: transparent;
   border-color: transparent;
 }
