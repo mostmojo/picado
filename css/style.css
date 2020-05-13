@@ -221,6 +221,13 @@
   display: block;
 }
 
+@media only screen and (max-width: 414px){
+	.brand-logo-dark {
+		height: 1rem !important;
+	}
+}
+
+
 .context-dark .rd-navbar-fixed .brand .brand-logo-light,
 .bg-gray-700 .rd-navbar-fixed .brand .brand-logo-light,
 .bg-gray-3 .rd-navbar-fixed .brand .brand-logo-light,
