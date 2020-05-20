@@ -19812,6 +19812,10 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   background: #FF6357;
 }
 
+.c {
+	color: #FF6357;
+}
+
 .slick-nav-1 .slick-arrow.slick-disabled {
   color: #ffffff;
   background-color: #d7d7d7;
