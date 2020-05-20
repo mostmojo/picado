@@ -20066,6 +20066,48 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   z-index: -1;
 }
 
+.popup {
+	position: absolute;
+	top: -200px;
+	right: 0;
+	background: #fff;
+	padding: 1rem 2rem;
+	z-index: 9000;
+	transition: all 1.4s ease;
+}
+
+.popup-img {
+	height: 100px;
+	width: 100px;
+}
+
+.popup-down {
+	top: 0;
+	transition: all 1.4s ease;
+}
+
+.x {
+	position: absolute;
+	z-index: 9000;
+	top: 0;
+	right: 12px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+@media only screen and (max-width: 414px) {
+
+	.popup {
+		padding: 0.1rem;
+    font-size: 11px;
+    width: 100%;
+	}
+	.popup-img {
+		height: 50px;
+		width: 50px;
+	}
+}
+
 .slick-slider-2 .custom-arrows::before,
 .slick-slider-2 .custom-arrows::after {
   content: "";

@@ -16,3 +16,16 @@ function readMoreLess() {
     moreText.style.display = "inline";
   }
 }
+
+const popup = document.querySelector(".popup");
+const x = document.getElementById("xIt");
+
+window.onload = setTimeout(function () {
+  popup.classList.add("popup-down");
+}, 5000);
+
+x.addEventListener("click", removePopup);
+
+function removePopup() {
+  popup.classList.remove("popup-down");
+}
