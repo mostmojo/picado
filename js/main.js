@@ -17,15 +17,15 @@ function readMoreLess() {
   }
 }
 
-const popup = document.querySelector(".popup");
-const x = document.getElementById("xIt");
+// const popup = document.querySelector(".popup");
+// const x = document.getElementById("xIt");
 
-window.onload = setTimeout(function () {
-  popup.classList.add("popup-down");
-}, 5000);
+// window.onload = setTimeout(function () {
+//   popup.classList.add("popup-down");
+// }, 5000);
 
-x.addEventListener("click", removePopup);
+// x.addEventListener("click", removePopup);
 
-function removePopup() {
-  popup.classList.remove("popup-down");
-}
+// function removePopup() {
+//   popup.classList.remove("popup-down");
+// }
