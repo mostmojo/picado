@@ -1284,9 +1284,9 @@ padding: 4px;
 }
 
 @media (min-width: 1200px) {
-  .box-icon-creative {
-    padding: 42px;
-  }
+	.box-icon-creative {
+    padding: 18px;
+	}
   .box-icon-creative-icon {
     font-size: 48px;
   }
