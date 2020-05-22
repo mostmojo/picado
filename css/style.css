@@ -1274,6 +1274,11 @@ padding: 4px;
   }
 }
 
+.b {
+	font-weight: 800;
+	color: #000;
+}
+
 @media (min-width: 992px) {
   .box-icon-creative {
     padding: 30px;
