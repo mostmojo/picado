@@ -972,7 +972,7 @@ padding: 4px;
   height: 60px;
   width: 60px;
   border-radius: 50%;
-  background: #ffffff;
+  background: #FF6357;
   box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.06);
   animation: iconClassic 20s ease-in-out infinite;
 }
@@ -11197,7 +11197,7 @@ html:not(.lt-ie10) .not-animated {
 @keyframes iconClassic {
   30% {
     color: #151515;
-    background: #ffffff;
+    background: #FF6357;
   }
   33% {
     color: #ffffff;
